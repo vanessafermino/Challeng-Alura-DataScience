@@ -1,5 +1,6 @@
 # Challeng-Alura-DataScience
 
+![Image](https://github.com/user-attachments/assets/e1db67fc-316a-4a89-b2a1-7214467d7e9c)
 
 
 Este projeto tem como objetivo realizar uma análise detalhada dos dados de vendas da Alura Store, buscando entender padrões de comportamento de compra, tendências de produtos e o impacto de promoções e datas especiais nas vendas. 📈
